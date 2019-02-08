@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\Web",
+    "\\src\\Web\\Controllers",
+    "\\src\\Web\\obj",
+    "\\src\\Web\\Properties",
+    "\\src\\Web\\Views",
+    "\\tests",
+    "\\tests\\FunctionalTests",
+    "\\tests\\UnitTests"
+  ],
+  "SelectedNode": "\\tests\\UnitTests\\UnitTest1.cs",
+  "PreviewInSolutionExplorer": false
+}
