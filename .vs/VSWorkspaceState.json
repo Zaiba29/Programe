@@ -7,10 +7,10 @@
     "\\src\\Web\\obj",
     "\\src\\Web\\Properties",
     "\\src\\Web\\Views",
-    "\\tests",
-    "\\tests\\FunctionalTests",
-    "\\tests\\UnitTests"
+    "\\src\\Web\\Views\\My",
+    "\\src\\Web\\Views\\Shared",
+    "\\tests"
   ],
-  "SelectedNode": "\\tests\\UnitTests\\UnitTest1.cs",
+  "SelectedNode": "\\src\\Web\\Views\\My\\MyView.cshtml",
   "PreviewInSolutionExplorer": false
 }

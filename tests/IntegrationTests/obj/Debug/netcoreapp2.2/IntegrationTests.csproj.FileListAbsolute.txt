@@ -12,3 +12,17 @@ C:\Sem 2\44663\Programe\tests\IntegrationTests\obj\Debug\netcoreapp2.2\Integrati
 C:\Sem 2\44663\Programe\tests\IntegrationTests\obj\Debug\netcoreapp2.2\IntegrationTests.AssemblyInfo.cs
 C:\Sem 2\44663\Programe\tests\IntegrationTests\obj\Debug\netcoreapp2.2\IntegrationTests.dll
 C:\Sem 2\44663\Programe\tests\IntegrationTests\obj\Debug\netcoreapp2.2\IntegrationTests.pdb
+C:\Sem 2\44663\Programe\Programe\tests\IntegrationTests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Sem 2\44663\Programe\Programe\tests\IntegrationTests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Sem 2\44663\Programe\Programe\tests\IntegrationTests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Sem 2\44663\Programe\Programe\tests\IntegrationTests\bin\Debug\netcoreapp2.2\IntegrationTests.deps.json
+C:\Sem 2\44663\Programe\Programe\tests\IntegrationTests\bin\Debug\netcoreapp2.2\IntegrationTests.runtimeconfig.json
+C:\Sem 2\44663\Programe\Programe\tests\IntegrationTests\bin\Debug\netcoreapp2.2\IntegrationTests.runtimeconfig.dev.json
+C:\Sem 2\44663\Programe\Programe\tests\IntegrationTests\bin\Debug\netcoreapp2.2\IntegrationTests.dll
+C:\Sem 2\44663\Programe\Programe\tests\IntegrationTests\bin\Debug\netcoreapp2.2\IntegrationTests.pdb
+C:\Sem 2\44663\Programe\Programe\tests\IntegrationTests\obj\Debug\netcoreapp2.2\IntegrationTests.csprojAssemblyReference.cache
+C:\Sem 2\44663\Programe\Programe\tests\IntegrationTests\obj\Debug\netcoreapp2.2\IntegrationTests.csproj.CoreCompileInputs.cache
+C:\Sem 2\44663\Programe\Programe\tests\IntegrationTests\obj\Debug\netcoreapp2.2\IntegrationTests.AssemblyInfoInputs.cache
+C:\Sem 2\44663\Programe\Programe\tests\IntegrationTests\obj\Debug\netcoreapp2.2\IntegrationTests.AssemblyInfo.cs
+C:\Sem 2\44663\Programe\Programe\tests\IntegrationTests\obj\Debug\netcoreapp2.2\IntegrationTests.dll
+C:\Sem 2\44663\Programe\Programe\tests\IntegrationTests\obj\Debug\netcoreapp2.2\IntegrationTests.pdb
